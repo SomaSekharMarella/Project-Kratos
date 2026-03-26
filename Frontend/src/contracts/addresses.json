@@ -1,0 +1,6 @@
+{
+  "VotingToken": "0x543eb799aB9bC4AfD9f969b98860178FE73F3953",
+  "ElectionManager": "0xe1723e54Df724958Eb0378223d51B99e682e7060",
+  "chainId": 1337,
+  "network": "ganache"
+}
